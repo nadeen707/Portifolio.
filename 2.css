@@ -141,13 +141,12 @@ section .title::after{
 width: 100%;
 padding: 60px;
 margin: 0px;
-color: white;
-text-align: left;
+display: flex;
 background: url("coding_-_Main.png");
-background-size: auto;
-overflow: hidden;
-background-size: cover;
-box-sizing: border-box;
+color: rgb(255, 255, 255);
+min-height: 500px;
+background-size: 100%;
+background-attachment: fixed;
 font-family: 'Ubuntu', sans-serif;
 }
 
