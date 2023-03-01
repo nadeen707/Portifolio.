@@ -138,11 +138,12 @@ section .title::after{
 
 /*home section */
 .home{
-background: url("coding_-_Main.png");
+
 
 }
 
 .home .max-width{
+  background: url("coding_-_Main.png");
   width: 100%;
   display: flex;
 }
