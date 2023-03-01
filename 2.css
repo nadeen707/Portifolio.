@@ -143,10 +143,10 @@ section .title::after{
     color: rgb(255, 255, 255);
     min-height: 500px;
     min-width: 4000px;
-    background-repeat: repeat;
+
     padding: 0px;
     background-size: 100%;
-    background-attachment: fixed;
+
     font-family: 'Ubuntu', sans-serif;
 }
 .home .max-width{
