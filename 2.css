@@ -146,7 +146,7 @@ section .title::after{
 
     padding: 0px;
     background-size: 100%;
-
+    background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
 }
 .home .max-width{
