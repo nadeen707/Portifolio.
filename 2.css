@@ -138,8 +138,6 @@ section .title::after{
 
 /*home section */
 .home{
-width: 100px;
-height: 100px;
 background: url("coding_-_Main.png");
 
 }
