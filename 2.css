@@ -139,11 +139,12 @@ section .title::after{
 /*home section */
 .home{
     display: flex;
+    height:200px;
+    width:400px;
     background: url("coding_-_Main.png");
-    height: 100vh;
     color: rgb(255, 255, 255);
     min-height: 500px;
-    background-size: 100%;
+    background-size: cover;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
 }
