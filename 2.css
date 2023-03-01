@@ -140,10 +140,10 @@ section .title::after{
 .home{
     display: flex;
     background: url("coding_-_Main.png");
+    width:fit-content;
     color: rgb(255, 255, 255);
     min-height: 500px;
-    min-width: 4000px;
-
+    min-width: 2000px;
     padding: 0px;
     background-size: 100%;
     background-attachment: fixed;
