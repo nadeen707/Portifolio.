@@ -143,7 +143,7 @@ section .title::after{
     height: 100vh;
     color: rgb(255, 255, 255);
     min-height: 500px;
-    background-size: auto;
+    background-size: 100%;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
 }
