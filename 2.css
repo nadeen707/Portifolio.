@@ -139,7 +139,7 @@ section .title::after{
 /*home section */
 .home{
     display: flex;
-    background: url("coding_-_Main.png");
+    background: url("Coding_-_Main.png");
     width:fit-content;
     color: rgb(255, 255, 255);
     min-height: 500px;
