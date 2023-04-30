@@ -1,13 +1,13 @@
 body{
     margin:0;
     padding:0;
-    background-image: url("./images/hd-wallpaper-2675322_1920.jpg") ;
+    background-image: url("hd-wallpaper-2675322_1920.jpg") ;
     background-size: 100%;
 }
 .sun{
     height: 120px;
     width: 120px;
-    background-image: url("./images/sun.jpg") ;
+    background-image: url("sun.jpg") ;
     border-radius: 50%;
     background-size: cover;
     box-shadow: -4px 2px 56px #f9c05f;
@@ -20,7 +20,7 @@ body{
 .mercury{
     height: 20px;;
     width: 20px;;
-    background-image: url("./images/mercury-11591.png");
+    background-image: url("mercury-11591.png");
     background-size: cover;
     border-radius: 50%;
     position: absolute;
@@ -62,7 +62,7 @@ body{
 .venus{
     height: 40px;
     width: 40px;
-    background-image: url("./images/venus-11022_1280.jpg");
+    background-image: url("venus-11022_1280.jpg");
     background-size: cover;
     border-radius: 50%;
     position: absolute;
@@ -88,7 +88,7 @@ body{
 .earth{
     height: 50px;
     width: 50px;
-    background-image: url("./images/earth-11015_1280.jpg");
+    background-image: url("earth-11015_1280.jpg");
     background-size: cover;
     border-radius: 50%;
     position: absolute;
@@ -141,7 +141,7 @@ body{
 .mars{
     height: 30px;
     width: 30px;
-    background-image: url("./images/mars-11012_1280.jpg");
+    background-image: url("mars-11012_1280.jpg");
     background-size: cover;
     border-radius: 50%;
     position: absolute;
@@ -166,7 +166,7 @@ body{
 .jupiter{
     height: 40px;
     width: 40px;
-    background-image: url("./images/jupiter-5263284_1920.jpg");
+    background-image: url("jupiter-5263284_1920.jpg");
     background-size: cover;
     border-radius: 50%;
     position: absolute;
@@ -191,7 +191,7 @@ body{
 .saturn{
     height: 40px;
     width: 40px;
-    background-image: url("./images/saturn-11023.jpg");
+    background-image: url("saturn-11023.jpg");
     background-size: cover;
     border-radius: 50%;
     position: absolute;
@@ -216,7 +216,7 @@ body{
 .uranus{
     height: 30px;
     width: 30px;
-    background-image: url("./images/uranus-11625_1280.jpg");
+    background-image: url("uranus-11625_1280.jpg");
     background-size: cover;
     border-radius: 50%;
     position: absolute;
@@ -241,7 +241,7 @@ body{
 .neptune{
     height: 60px;
     width: 60px;
-    background-image: url("./images/neptune-67537_1280.jpg");
+    background-image: url("neptune-67537_1280.jpg");
     background-size: cover;
     border-radius: 50%;
     position: absolute;
